@@ -1,0 +1,73 @@
+Study Protocol: Phase 2 Clinical Trial for Systemic Lupus Erythematosus (SLE)
+Title:
+A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study to Evaluate the Safety and Efficacy of Ilizomab in Patients with Moderate to Severe Systemic Lupus Erythematosus
+Sponsor: [Company Name]
+Clinical Trial Identifier: [Unique ID]
+Study Phase: Phase 2
+Indication: Systemic Lupus Erythematosus (SLE)
+Study Population: Adult patients (18-75 years) with moderate to severe SLE per SLEDAI-2K criteria
+Background and Rationale
+Systemic Lupus Erythematosus (SLE) is a chronic autoimmune disease characterized by widespread inflammation and tissue damage. Current treatment options primarily include corticosteroids, immunosuppressants, and biologic therapies, but a significant unmet need remains for more targeted, effective, and safer treatment options. Suppressing the IFN signature through the use of monoclonal antibody that targets the type I IFN receptor has been shown to be effective in SLE.
+Ilizomab is a novel monoclonal antibody targeting [specific pathway], which has demonstrated promising results in preclinical toxicology and pharmacokinetic studies. Preclinical data suggest that Ilizomab selectively modulates immune pathways involved in lupus pathogenesis, reducing inflammatory cytokines and autoantibody production. Mild fatigue, nausea, and rare instances of syncope were observed in preclinical studies but were not dose-limiting. This study aims to evaluate its safety, efficacy, and pharmacokinetics in patients with moderate to severe SLE.
+Study Design
+•	Type: Multicenter, randomized, double-blind, placebo-controlled trial
+•	Sample Size: Approximately 150 participants, randomized 2:1 (Ilizomab:Placebo)
+•	Duration: 24 weeks of treatment + 12 weeks of follow-up
+•	Dosing: Ilizomab administered [route, frequency, and dosage]
+•	Primary Endpoint Assessment: Week 24
+•	25% response rate assumed
+•	Follow-up Period: 12 weeks post-treatment
+Objectives and Endpoints
+Primary Objective:
+•	To evaluate the efficacy and safety of Ilizomab in reducing disease activity in patients with moderate to severe SLE using the Systemic Lupus Erythematosus Responder Index (SRI-4) at Week 24.
+Secondary Objectives:
+•	Assess changes in SLE Disease Activity Index 2000 (SLEDAI-2K) scores from baseline
+•	Evaluate the impact of treatment on biomarkers associated with SLE activity
+•	Assess improvements in patient-reported outcomes (PROs) using validated instruments
+•	Evaluate the safety and tolerability of Ilizomab over the study duration, including rates of adverse events (AEs), serious adverse events (SAEs), and immunogenicity
+Endpoints:
+•	Primary Endpoint: Proportion of patients achieving SRI-4 response at Week 24
+•	Secondary Endpoints:
+o	Change from baseline in SLEDAI-2K
+o	Percentage of patients successfully tapering corticosteroids
+o	Biomarker assessments (e.g., complement levels, anti-dsDNA antibody levels)
+o	Safety evaluations: Incidence of AEs, SAEs, treatment-emergent adverse events (TEAEs), and laboratory abnormalities
+o	Immunogenicity Assessment: Development of anti-drug antibodies (ADAs)
+Eligibility Criteria
+Inclusion Criteria:
+•	Adults aged 18 to 75 years
+•	Diagnosis of SLE as per ACR/EULAR 2019 classification criteria
+•	SLEDAI-2K score ≥6 at screening
+•	Positive for ANA (antinuclear antibodies) or anti-dsDNA at screening
+•	Receiving stable background therapy for SLE, including corticosteroids (≤10 mg/day prednisone or equivalent), antimalarials, and/or immunosuppressants for ≥12 weeks
+•	Willing and able to provide informed consent and comply with study procedures
+Exclusion Criteria:
+•	Active severe lupus nephritis or CNS lupus
+•	History of severe allergic reactions to monoclonal antibodies
+•	Active or chronic infections, including tuberculosis, hepatitis B or C, HIV
+•	Use of biologic therapy within 12 weeks of screening
+•	Pregnancy or breastfeeding
+•	Any other medical condition that, in the investigator’s opinion, would compromise patient safety or data integrity
+Safety Considerations
+•	Adverse Event (AE) Monitoring:
+o	All AEs will be documented and categorized based on severity and relationship to Ilizomab.
+o	SAEs will be reported immediately per regulatory requirements.
+o	Periodic safety data monitoring will be conducted by a Data Safety Monitoring Board (DSMB).
+•	Immunogenicity Risks:
+o	Potential for ADA development, which will be monitored via periodic blood sampling.
+•	Risk Mitigation Strategies:
+o	Participants with prior severe allergic reactions to monoclonal antibodies will be excluded.
+o	Pre-treatment screening for latent infections.
+o	Close monitoring for infusion-related reactions.
+Study Assessments and Procedures
+•	Screening Phase: Participants will be screened within 28 days before randomization, including laboratory tests and disease activity assessments.
+•	Treatment Phase: Study visits every 4 weeks for safety assessments, laboratory evaluations, and efficacy measurements.
+•	Follow-up Phase: Participants will be followed for 12 weeks post-treatment for safety and immunogenicity assessments.
+Statistical Considerations
+•	200 participants will be enrolled and randomized
+•	Sample size estimation based on an expected 20% difference in response rate between active and placebo groups.
+•	Primary analysis: Logistic regression adjusted for baseline characteristics.
+•	Secondary analyses: Mixed-effects models for repeated measures (MMRM), Kaplan-Meier estimates for time-to-event analyses.
+•	Multiplicity adjustment: Hochberg’s procedure for Type I error control.
+•	Missing data handling: Multiple imputation for sensitivity analysis.
+
